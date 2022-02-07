@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://zhanglun.xyz/labs](zhanglun.xyz/labs)
+- 👨‍💻 All of my projects are available at [zhanglun.xyz/labs](https://zhanglun.xyz/labs)
 
 - 📫 How to reach me **zhanglun1410@gmail.com**
 
-- 📄 Know about my experiences [https://zhanglun.xyz/about](zhanglun.xyz/about)
+- 📄 Know about my experiences [zhanglun.xyz/about](https://zhanglun.xyz/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
