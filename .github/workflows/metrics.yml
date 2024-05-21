@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           committer_message: "chore: update ${filename}"
-          config_timezone: China/ShangHai
+          config_timezone: Asia/Shanghai
           template: classic
           base: header, activity, community, repositories, metadata
           config_order: base.header, base.repositories, base.activity+community, isocalendar, music
@@ -30,16 +30,7 @@ jobs:
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot, vba, tsql, scss, gherkin, vim, vim script, handlebars, XSLT
-          # extras_js: |
-          #   document.querySelector(".field.calendar")?.remove()
-          #   document.querySelector(".field.diskUsage")?.remove()
-          # plugin_isocalendar: yes
           plugin_followup: yes
-          plugin_stargazers: yes
-          plugin_stars: yes
-          # plugin_topics: yes
-          # plugin_people: yes
-          # plugin_people_types: followers
 
   delete-runs:
     runs-on: ubuntu-latest
