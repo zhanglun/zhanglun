@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zhanglun1410" target="blank"><img src="https://img.shields.io/twitter/follow/zhanglun1410?logo=twitter&style=for-the-badge" alt="zhanglun" /></a> </p>
 
-<table>
+<table border="0" style="border-collapse:collapse;" cellspacing="0" cellpadding="0">
 <tr>
   <td valign="top" width="50%">
 
