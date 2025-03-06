@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **something cool!**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust**, **Python**
 
 - 👨‍💻 All of my projects are available at [zhanglun.github.io/labs](https://zhanglun.github.io/labs)
 
